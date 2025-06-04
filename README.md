@@ -37,5 +37,5 @@ A lightweight and modular web application built with Vue.js 3 for organizing and
 
 ## 🚀 How to run
 
-npm install
+npm install <br>
 npm run serve
